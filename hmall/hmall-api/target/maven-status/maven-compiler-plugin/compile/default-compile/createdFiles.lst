@@ -1,0 +1,17 @@
+com\hmall\api\client\PayOrderClient.class
+com\hmall\api\entity\Address.class
+com\hmall\api\client\CartClient.class
+com\hmall\api\client\UserClient.class
+com\hmall\api\entity\Cart.class
+com\hmall\api\entity\Order.class
+com\hmall\api\entity\Item.class
+com\hmall\api\entity\PayOrder.class
+com\hmall\api\client\OrderClient.class
+com\hmall\api\dto\PageDTO.class
+com\hmall\api\entity\User.class
+com\hmall\api\entity\OrderDetail.class
+com\hmall\api\client\AddressClient.class
+com\hmall\api\client\ItemClient.class
+com\hmall\api\client\OrderDetailClient.class
+com\hmall\api\entity\OrderLogistics.class
+com\hmall\api\client\OrderLogisticsClient.class
